@@ -10,7 +10,7 @@ import java.util.ArrayList;
 
 
     public class JsonReader{
-        public ArrayList<User> readJsonFIle(String fichero)
+        public ArrayList<User> readJsonFile(String fichero)
         {
             try {
                 //lee el fichero que le pasemos y lo carga en un reader
